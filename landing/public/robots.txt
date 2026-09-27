@@ -1,0 +1,29 @@
+User-agent: *
+Allow: /
+Disallow: /profile
+Disallow: /auth/verify
+
+# AI answer-engine / GEO crawlers — explicitly allowed so Daily Bread can be
+# cited in AI Overviews, ChatGPT, Perplexity, and similar generative answers.
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+Sitemap: https://dailybread.app/sitemap.xml

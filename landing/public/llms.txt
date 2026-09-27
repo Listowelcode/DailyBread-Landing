@@ -1,0 +1,34 @@
+# Daily Bread
+
+> Daily Bread is a free daily email newsletter that delivers a short Bible
+> passage, a brief reflection, and a short prayer each morning. It is built
+> for people who want a consistent, ad-free spiritual practice without
+> installing another app — everything arrives directly in the subscriber's
+> inbox.
+
+## What it is
+- A daily (or user-chosen frequency) devotional email: Scripture + reflection + prayer.
+- Free to subscribe, no account required beyond name and email.
+- Optional "Spiritual Journey" multi-day email series on specific topics.
+- Subscribers can update preferences or unsubscribe at any time via a personal profile link.
+
+## Who it's for
+People seeking a brief, honest daily spiritual practice — Christians and
+seekers who want Scripture-centered content without social feeds, ads, or
+pressure to perform a "streak."
+
+## Key facts
+- Format: email newsletter.
+- Cost: free.
+- Sign-up: name + email on the landing page.
+- Cadence: daily, chosen by the subscriber.
+- Content: Scripture reference, short message/reflection, and a prayer; some
+  emails include an "encouragement" note and a suggested Bible reading.
+- Account access: subscribers manage preferences through a private magic-link
+  profile page — no password required.
+
+## Pages
+- [Homepage](https://dailybread.app/): overview, the daily rhythm, and signup form.
+
+## Contact
+For questions about Daily Bread, use the sign-up form on the homepage.
